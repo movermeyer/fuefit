@@ -662,19 +662,19 @@ Indices
     :scale: 100%
     :target: https://readthedocs.org/builds/fuefit/
 
-.. |pypi-status| image::  https://pypip.in/v/fuefit/badge.png
+.. |pypi-status| image::  https://img.shields.io/pypi/v/fuefit.svg
     :target: https://pypi.python.org/pypi/fuefit/
     :alt: Latest Version in PyPI
 
-.. |python-ver| image:: https://pypip.in/py_versions/fuefit/badge.svg
+.. |python-ver| image:: https://img.shields.io/pypi/pyversions/fuefit.svg
     :target: https://pypi.python.org/pypi/fuefit/
     :alt: Supported Python versions
 
-.. |dev-status| image:: https://pypip.in/status/fuefit/badge.svg
+.. |dev-status| image:: https://img.shields.io/pypi/status/fuefit.svg
     :target: https://pypi.python.org/pypi/fuefit/
     :alt: Development Status
 
-.. |downloads-count| image:: https://pypip.in/download/fuefit/badge.svg?period=week
+.. |downloads-count| image:: https://img.shields.io/pypi/dw/fuefit.svg
     :target: https://pypi.python.org/pypi/fuefit/
     :alt: Downloads
 
